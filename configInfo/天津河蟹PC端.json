@@ -23,7 +23,8 @@
     "type":"合资公司",
     "manager":"李静波",                  
     "charge": "胡杰",                  
-    "affiliate": ["商业庆"]       
+    "affiliate": ["商业庆"],
+    "average":1
   },
   "bug": {
     "total": 3,                     
